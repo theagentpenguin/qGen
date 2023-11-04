@@ -1,0 +1,9 @@
+body{
+  display: flex;
+}
+
+quote{
+  display: flex;
+  border: 1cm;
+  flex-direction: column;
+}
